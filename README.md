@@ -2,6 +2,14 @@
 
 **QuizIT** is a lightweight and easy-to-use quiz application built using the MERN stack (MongoDB, Express.js, React, Node.js). The app features two primary roles: **Teacher** and **Student**. Teachers can create and manage quizzes, while students can participate in them using a unique code. This app is ideal for classrooms, training sessions, or any environment where quick quizzes are needed.
 
+## 📋 Table of Contents
+- [Key Features](#key-features)
+- [Live Demo](#-live-demo)
+- [Tech Stack](#️-tech-stack)
+- [Setup Instructions](#setup-instructions)
+- [Author](#-author)
+- [Screenshots](#screenshots)
+
 ## Key Features
 
 ### Teacher Role:
@@ -63,7 +71,7 @@ ACCESS_TOKEN_SECRET=your_jwt_secret
 npm start
 ```
 
-5. Start Frontend
+6. Start Frontend
 ```bash
 npm start
 ```
