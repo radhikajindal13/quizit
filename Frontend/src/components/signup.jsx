@@ -40,7 +40,7 @@ const Signup = ({ loadUser, onRouteChange }) => {
     } else if (json === "Exist") {
       Swal.fire({
         icon: "warning",
-        title: "User ALready Exist",
+        title: "User ALready Exists.",
         text: "",
       });
     } else {
